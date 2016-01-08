@@ -1,5 +1,5 @@
 {
-  "name": "angular-require-starter",
+  "name": "angular-starter",
   "authors": [
     "dagothar <dagothar@gmail.com>"
   ],
@@ -17,6 +17,10 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "latest"
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "angular": "latest",
+    "requirejs": "latest",
+    "requirejs-domready": "latest"
   }
 }
